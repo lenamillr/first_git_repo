@@ -9,3 +9,4 @@ Hello!
 Adding more text
 
 What's up!
+Today the weather is nice
